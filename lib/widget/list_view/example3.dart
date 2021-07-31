@@ -19,7 +19,7 @@ class ListApp extends StatelessWidget {
     return MaterialApp(
       title: "List app",
       theme: ThemeData(
-        primarySwatch: Colors.blue
+          primarySwatch: Colors.blue
       ),
       home: ListAppPage(),
     );
